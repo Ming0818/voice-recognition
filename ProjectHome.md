@@ -1,0 +1,1 @@
+The project basically consists of a speaker recognition system built using matlab tools. This is a project developed for the Ubiquitous Computing and Activity Recognition course by students of Technische Universiteit Eindhoven
